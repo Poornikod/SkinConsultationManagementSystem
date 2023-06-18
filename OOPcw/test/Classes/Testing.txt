@@ -1,0 +1,25 @@
+//adding a doctor
+firstName
+surName
+03/03/2000
+1234567890
+0987654321
+specialization
+//delete a doctor
+0987654321
+//adding a doctor
+firstName
+surName
+03/05/2000
+1234567890
+0987654321
+specialization
+//delete non existing doctor
+12345
+//adding a doctor test case
+firstName
+surName
+03/08/2000
+1234567890
+0987652421
+specialization

@@ -1,0 +1,29 @@
+FirstName: shnauka
+Surname: himsara
+DateOfBirth: 02/02/2000
+MobileNo: 1234567890
+MedicalLicenceNumber: 0987654321
+Specialisation: skin
+
+FirstName: poornima
+Surname: kodithuwakku
+DateOfBirth: 02/02/2001
+MobileNo: 0912246781
+MedicalLicenceNumber: 2001987622
+Specialisation: legs
+
+FirstName: geevinda
+Surname: pasindu
+DateOfBirth: 05/05/2001
+MobileNo: 0773088508
+MedicalLicenceNumber: 3002333322
+Specialisation: knee
+
+FirstName: vikasitha
+Surname: sathsara
+DateOfBirth: 03/03/2000
+MobileNo: 0912245678
+MedicalLicenceNumber: 2009876511
+Specialisation: hands
+
+Stored successfully!!
